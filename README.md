@@ -1,35 +1,36 @@
 # TextCounter 
+
 Features
 
-Reads input from a text file
+-Reads input from a text file
 
-Counts:
+-Counts:
 
-Total characters
+  -Total characters
 
-Total tokens (words)
+  -Total tokens (words)
 
-Palindromes (words that read the same forward and backward)
+  -Palindromes (words that read the same forward and backward)
 
-Emoticons (e.g., :), ;), :D)
+  -Emoticons (e.g., :), ;), :D)
 
-New lines
+  -New lines
 
-Determines:
+-Determines:
+  
+  -Longest token size
 
-Longest token size
+  -Average token size
 
-Average token size
-
-Execution time
+  -Execution time
 
 Compilation and Execution
 
-To compile the program, run:
+-To compile the program, run:
 
 javac TextCounter.java
 
-To execute the program, run:
+-To execute the program, run:
 
 java TextCounter
 
